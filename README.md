@@ -1,6 +1,6 @@
-Our whitepaper and other info are available at https://learn.smartcredit.io.
+Our whitepaper and other info are available at [learn.smartcredit.io](https://learn.smartcredit.io).
 
-SmartCredit.io is an AI-driven self-custodial neobank. SmartCredit.io has 20'000 registered users.
+[SmartCredit.io](https://SmartCredit.io) is an AI-driven self-custodial neobank. SmartCredit.io has 20'000 registered users.
 
 Platform offers:
 - Fixed-term, fixed-interest-rate collateralized loans for the borrowers
