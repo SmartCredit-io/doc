@@ -12,7 +12,7 @@ Platform offers:
 - Borrow/Lend SDK integrations for other wallets and platforms
 - Staking and Rewards
 
-SmartCredit.io has implemented advanced [ChainAware.ai](url) technology:
+SmartCredit.io has integrated advanced [ChainAware.ai](url) technology:
 - for AI-based Continuous Transaction Monitoring
 - for user targeting based on user blockchain history - users' intentions are calculated, and users are targeted with 1:1 messages
 
