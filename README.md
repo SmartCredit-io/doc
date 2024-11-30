@@ -16,8 +16,8 @@ SmartCredit.io has integrated advanced [ChainAware.ai](https://ChainAware.ai) te
 - for AI-based Continuous Transaction Monitoring
 - for user targeting based on user blockchain history - users' intentions are calculated, and users are targeted with 1:1 messages
 
-SmartCredit.io's focus is on offering self-custodial solutions that are regulatory compliant. See more at: https://learn.smartcredit.io/regulations. 
+SmartCredit.io's focus is on offering self-custodial solutions that are regulatory compliant. 
 
-SmartCredit.io does not have bank-run risks like Aave, Compound, or other money-market-based lending systems. See more at: https://learn.smartcredit.io/how-does-it-work/no-bank-run-risks
+SmartCredit.io does not have bank-run risks like Aave, Compound, or other money-market-based lending systems. 
 
 The Vision of SmartCredit.io is to offer all the financial services that traditional banks offer. However, self-custodial. 
